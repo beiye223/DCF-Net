@@ -1,10 +1,6 @@
 # DCF-Net
 
-#### 介绍
-用于裂缝分割的模型训练框架
-
-#### 软件架构
-软件架构说明
+#### The project is gradually improving
 
 
 #### 安装教程
